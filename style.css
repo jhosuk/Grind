@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #0b1220; color: #eee; margin: 0; }
+.app-header, .app-footer { background: #111; padding: 10px; }
+nav button { margin: 0 5px; padding: 6px 12px; }
+.card { background: #1e293b; padding: 15px; margin: 15px 0; border-radius: 8px; }
+.progress { background: #333; height: 8px; border-radius: 6px; overflow: hidden; }
+.progress > div { background: #22c55e; height: 100%; }
