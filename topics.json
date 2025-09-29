@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "id": "cardio-af",
+      "system": "Cardiology",
+      "title": "AF & Acquired Arrhythmias",
+      "summary": [
+        "Irregularly irregular rhythm, absent P waves.",
+        "Stroke risk: CHA\u2082DS\u2082-VASc.",
+        "Rate vs rhythm control strategy.",
+        "Anticoagulation: DOACs unless contraindicated."
+      ],
+      "flashcards": [
+        {
+          "front": "ECG hallmark of AF?",
+          "back": "Irregularly irregular, no P waves."
+        },
+        {
+          "front": "When to avoid beta-blocker/CCB in AF?",
+          "back": "WPW syndrome."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "stem": "74F with AF, HR 132, symptomatic. Best initial management?",
+          "options": [
+            "Amiodarone",
+            "Rate control (BB/CCB)",
+            "Ablation",
+            "Observe",
+            "Sotalol"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
